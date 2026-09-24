@@ -1,7 +1,8 @@
 {
   "name": "School Mobile App",
-  "short_name": "SchoolApp",
-  "start_url": "/",
+  "short_name": "SchoolMobileApp",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#1e293b",
