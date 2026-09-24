@@ -1,0 +1,9 @@
+{
+  "name": "School Mobile App",
+  "short_name": "SchoolApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b",
+  "icons": []
+}
